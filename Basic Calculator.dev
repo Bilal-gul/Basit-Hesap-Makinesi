@@ -1,6 +1,6 @@
 [Project]
-filename=Project1.dev
-name=Project1
+filename=calculator.cpp
+name=calculator
 Type=1
 Ver=2
 ObjFiles=
